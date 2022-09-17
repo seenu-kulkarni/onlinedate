@@ -1,0 +1,9 @@
+.dropdown-toggle,dropdown-item {
+    cursor: pointer;
+}
+.eyeicon{
+    margin-left: -32px;
+    cursor: pointer;
+    color: brown;
+    margin-top :10px;
+}
